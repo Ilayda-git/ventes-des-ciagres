@@ -1,5 +1,6 @@
 Dans ce projet, nous cherchons à répondre à la question de recherche suivante : 
-**Quels sont les déterminants des ventes de cigares et comment les caractéristiques économiques, démographiques et les variations temporelles influencent-elles ces ventes ?**
+
+- **Quels sont les déterminants des ventes de cigares et comment les caractéristiques économiques, démographiques et les variations temporelles influencent-elles ces ventes ?**
 
 L’objectif principal est de comprendre les principaux facteurs influençant les ventes de cigares et d'évaluer l'importance relative de chacun. 
 Cette analyse permettra de mieux appréhender les comportements de consommation, les impacts des politiques tarifaires, et les dynamiques économiques et démographiques à travers les régions et les années.
